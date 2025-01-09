@@ -19,17 +19,17 @@
 --------
 
 <p align="center">
-<a href="https://github.com/KangJinhuyk/"><img title="Followers" src="https://img.shields.io/github/followers/KangJinhuyk?color=blue&style=flat-square"></a>
-<a href="https://github.com/KangJinhuyk/ＭＡＳＡＣＲＹ-ＭＤ-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KangJinhuyk/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kangmasacry/ＭＡＳＡＣＲＹ-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KangJinhuyk/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/KangJinhuyk/JINHUYK-MD-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/KangJinhuyk/JINHUYK-MD-V2?style=flat-square&color=blue"></a>
-<a href="https://github.com/KangJinhuyk/JINHUYK-MD-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/migosmasacry/"><img title="Followers" src="https://img.shields.io/github/followers/migosmasacry?color=blue&style=flat-square"></a>
+<a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-ＭＤ-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2?style=flat-square&color=blue"></a>
+<a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/JINHUYK-MD-V2/count.svg" /><br>JINHUYK-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/ＭＡＳＡＣＲＹ-MD-V2/count.svg" /><br>ＭＡＳＡＣＲＹ-MD-V2</div>
 
 ------------
 
@@ -73,7 +73,7 @@ jobs:
       run: npm start
 ```
 
-[![FORK JINHUYK-MD-V2](https://img.shields.io/badge/FORK%20-JINHUYK%20MD%20V2-white)](https://github.com/KangJinhuyk/JINHUYK-MD-V2/fork)
+[![FORK ＭＡＳＡＣＲＹ-MD-V2](https://img.shields.io/badge/FORK%20-JINHUYK%20MD%20V2-white)](https://github.com/KangJinhuyk/ＭＡＳＡＣＲＹ-MD-V2/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
@@ -105,15 +105,15 @@ jobs:
 
 -----------    
 
-`🚀 IF YOU WANT MORE ABOUT JINHUYK-MD-V2 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
+`🚀 IF YOU WANT MORE ABOUT ＭＡＳＡＣＲＹ-MD-V2 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
 
 ---------
 
-<a href="https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Vb01pp6ICVfhhRraMK22"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 -----------
 
-`🚀 IF YOU WANT MORE ABOUT JINHUYK-MD-V2 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
+`🚀 IF YOU WANT MORE ABOUT ＭＡＳＡＣＲＹ-MD-V2 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
 
 ----------
 
@@ -123,27 +123,27 @@ jobs:
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`🚀 IF YOU WANT TO DEPLOY JINHUYK-MD-V2 BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
+`🚀 IF YOU WANT TO DEPLOY ＭＡＳＡＣＲＹ-MD-V2 BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT 🚀`
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/KangJinhuyk/JINHUYK-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.comm/migosmasacryＭＡＳＡＣＲＹ-MD-V2)
 
 ----------
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
-`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY JINHUYK-MD-V2 ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
+`🚀 IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY ＭＡＳＡＣＲＹ-MD-V2 ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT 🚀`
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/KangJinhuyk/JINHUYK-MD-V2"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
-`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY JINHUYK-MD-V2  ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
+`🚀 IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY MASACRY-MD-V2  ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
 
 ---------
 
@@ -153,7 +153,7 @@ jobs:
 
 ### <br>  ❖ DEPLOY_RAILWAY ❖
 
-`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY JINHUYK-MD-V2  ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
+`🚀 IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY MASACRY-MD-V2  ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON 🚀`
 
 --------
 
@@ -181,7 +181,7 @@ jobs:
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
-`🚀 HOW TO DEPLOY JINHUYK-MD-V2  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
+`🚀 HOW TO DEPLOY ＭＡＳＡＣＲＹ-MD-V2  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
 
 -------------
 
@@ -192,7 +192,7 @@ jobs:
 
 -------------
 
-Thanks For Using JINHUYK-MD-V2 
+Thanks For Using ＭＡＳＡＣＲＹ-MD-V2 
 
 > Release Date : 15/12/2024 at 00.00
 Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
