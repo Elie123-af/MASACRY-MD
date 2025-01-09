@@ -7,7 +7,7 @@
 ----------
 ## CLICK <a href="https://github.com/migosmasacry/MASACRY-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-<img src='https://i.postimg.cc/T1M4kVyf/MASACRY-BOT2.jpg'/>
+<img src='https://imgur.com/a/v0zv71W/MASACRY-BOT2.jpg'/>
 
 -------
 
@@ -73,7 +73,7 @@ jobs:
       run: npm start
 ```
 
-[![FORK ＭＡＳＡＣＲＹ-MD-V2](https://img.shields.io/badge/FORK%20-JINHUYK%20MD%20V2-white)](https://github.com/masacry/ＭＡＳＡＣＲＹ-MD-V2/fork)
+[![FORK ＭＡＳＡＣＲＹ-MD-V2](https://imgur.com/a/v0zv71W/FORK%20-MASACRY%20MD%20V2-white)](https://github.com/masacry/ＭＡＳＡＣＲＹ-MD-V2/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
@@ -83,7 +83,7 @@ jobs:
 ----------
 ## SESSION ＭＡＳＡＣＲＹ-MD-V2
 <p align="center">
-<a href="https://sasaki-session-bot.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
+<a href="https://sasaki-session-bot.onrender.com"><img height= "35" title="Author" src="https://imgur.com/a/v0zv71W/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
 <p/>
 --------
 
@@ -101,7 +101,7 @@ jobs:
 
 <p align="center">
   <a href="https://wa.me/+50939405677?text=*ʜɪɪ+𝙺𝙰𝙽𝙶 𝙹𝙸𝙽𝙷𝚄𝚈𝙺+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʀᴇᴘᴏ!!*" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://imgur.com/a/v0zv71W/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
@@ -109,7 +109,7 @@ jobs:
 
 ---------
 
-<a href="https://whatsapp.com/channel/0029Vb01pp6ICVfhhRraMK22"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Vb01pp6ICVfhhRraMK22"><img src="https://imgur.com/a/v0zv71W/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 -----------
 
@@ -172,13 +172,13 @@ jobs:
 
 ### <br>   ❖ DEPLOY_CODESPACE ❖
 
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://imgur.com/a/v0zv71W/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 --------
 
 ### <br>   ❖ DEPLOY_RENDER ❖
 
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://imgur.com/a/v0zv71W/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
 `🚀 HOW TO DEPLOY ＭＡＳＡＣＲＹ-MD-V2  ON WORKFLOWS FREE GITHUB WATCH VIDEO 🚀`
