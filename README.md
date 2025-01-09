@@ -33,8 +33,8 @@
 
 ------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/a/v0zv71W'/></a>
+<a><img src='https://imgur.com/a/v0zv71W'/></a>
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
 ```
@@ -73,12 +73,12 @@ jobs:
       run: npm start
 ```
 
-[![FORK ＭＡＳＡＣＲＹ-MD-V2](https://img.shields.io/badge/FORK%20-JINHUYK%20MD%20V2-white)](https://github.com/KangJinhuyk/ＭＡＳＡＣＲＹ-MD-V2/fork)
+[![FORK ＭＡＳＡＣＲＹ-MD-V2](https://img.shields.io/badge/FORK%20-JINHUYK%20MD%20V2-white)](https://github.com/masacry/ＭＡＳＡＣＲＹ-MD-V2/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
 
-`🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+242xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
+`🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+509xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
 
 ----------
 ## SESSION ＭＡＳＡＣＲＹ-MD-V2
@@ -95,7 +95,7 @@ jobs:
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR FRANK ࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR PAPOO ࿐➺`**
 
 -------
 
