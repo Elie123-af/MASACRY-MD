@@ -7,7 +7,8 @@
 ----------
 ## CLICK <a href="https://github.com/migosmasacry/MASACRY-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-<img src='https://github.com/user-attachments/assets/d784cf07-712f-4bb7-ab42-5363be4a49e6'/>
+<img src='![Image](https://github.com/user-attachments/assets/a8dee0b3-cdc6-40ca-9a13-8cbe7deaf4b9)
+'/>
 
 -------
 
