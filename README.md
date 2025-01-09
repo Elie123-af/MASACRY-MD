@@ -100,7 +100,7 @@ jobs:
 -------
 
 <p align="center">
-  <a href="https://wa.me/+50939405677?text=*ʜɪɪ+𝙺𝙰𝙽𝙶 𝙹𝙸𝙽𝙷𝚄𝚈𝙺+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+50939405677?text=*ʜɪɪ+ᴘᴀᴘᴏᴏ ᴅᴇ ᴍᴇ ᴀɴᴅ ᴍᴀɴᴍɪᴇ ᴅᴇ ʟᴡɴs+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʜᴀɪ̈ᴛɪ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
@@ -117,7 +117,7 @@ jobs:
 
 ----------
 
-<a href="https://www.youtube.com/@SASAKICOMPAGNIE"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://www.youtube.com/@SASAKICOMPAGNIE"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀ 🔰" width="300"></a>
 
 --------------
  
