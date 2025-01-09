@@ -7,7 +7,7 @@
 ----------
 ## CLICK <a href="https://github.com/migosmasacry/MASACRY-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-<img src='https://img.shields.io/badge//MASACRY-BOT2.jpg'/>
+<img src='https://imgur.com/a/v0zv71W///MASACRY-BOT2.jpg'/>
 
 -------
 
@@ -194,5 +194,5 @@ jobs:
 
 Thanks For Using ＭＡＳＡＣＲＹ-MD-V2 
 
-> Release Date : 15/12/2024 at 00.00
+> Release Date : LOOK TON TELEPHONE at LOOK TA MONTRE
 Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
