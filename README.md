@@ -5,14 +5,14 @@
 🔰 **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** 🔰
 
 ----------
-## CLICK <a href="https://github.com/KangJinhuyk/JINHUYK-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
+## CLICK <a href="https://github.com/Kangmasacry/MASACRY-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-<img src='https://i.postimg.cc/T1M4kVyf/JINHUYK-BOT2.jpg'/>
+<img src='https://i.postimg.cc/T1M4kVyf/MASACRY-BOT2.jpg'/>
 
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`ＪＩＮＨＵＹＫ-MD+Ｖ２+W.A+BOT+BY+KANG+JINHUYK`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`ＭＡＳＡＣＲＹ-ＭＤ+Ｖ２+W.A+BOT+BY+MIGOS+MASACRY`" alt="">
 
 <br>
 
@@ -20,8 +20,8 @@
 
 <p align="center">
 <a href="https://github.com/KangJinhuyk/"><img title="Followers" src="https://img.shields.io/github/followers/KangJinhuyk?color=blue&style=flat-square"></a>
-<a href="https://github.com/KangJinhuyk/JINHUYK-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KangJinhuyk/JINHUYK-MD-V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/KangJinhuyk/JINHUYK-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KangJinhuyk/JINHUYK-MD-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/KangJinhuyk/ＭＡＳＡＣＲＹ-ＭＤ-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KangJinhuyk/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kangmasacry/ＭＡＳＡＣＲＹ-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KangJinhuyk/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
 <a href="https://github.com/KangJinhuyk/JINHUYK-MD-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/KangJinhuyk/JINHUYK-MD-V2?style=flat-square&color=blue"></a>
 <a href="https://github.com/KangJinhuyk/JINHUYK-MD-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -81,7 +81,7 @@ jobs:
 `🚀 IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+242xxxxxx THEN YOU CAN GET YOUR SESSION_ID 🚀`
 
 ----------
-## SESSION JINHUYK-MD-V2
+## SESSION ＭＡＳＡＣＲＹ-MD-V2
 <p align="center">
 <a href="https://sasaki-session-bot.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
 <p/>
@@ -100,7 +100,7 @@ jobs:
 -------
 
 <p align="center">
-  <a href="https://wa.me/+242067274660?text=*ʜɪɪ+𝙺𝙰𝙽𝙶 𝙹𝙸𝙽𝙷𝚄𝚈𝙺+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+50939405677?text=*ʜɪɪ+𝙺𝙰𝙽𝙶 𝙹𝙸𝙽𝙷𝚄𝚈𝙺+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
