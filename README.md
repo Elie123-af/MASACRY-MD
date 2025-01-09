@@ -5,14 +5,14 @@
 🔰 **`A WhatsApp Multi Device Bot To Take Your WhatsApp To Another Level !`** 🔰
 
 ----------
-## CLICK <a href="https://github.com/Kangmasacry/MASACRY-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
+## CLICK <a href="https://github.com/migosmasacry/MASACRY-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
 <img src='https://i.postimg.cc/T1M4kVyf/MASACRY-BOT2.jpg'/>
 
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`ＭＡＳＡＣＲＹ-ＭＤ+Ｖ２+W.A+BOT+BY+MIGOS+MASACRY`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`MASACRY-ＭＤ+Ｖ２+W.A+BOT+BY+MASACRY+MASACRY`" alt="">
 
 <br>
 
