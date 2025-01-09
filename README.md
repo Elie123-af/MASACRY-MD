@@ -100,7 +100,7 @@ jobs:
 -------
 
 <p align="center">
-  <a href="https://wa.me/+50939405677?text=*ʜɪɪ+ᴘᴀᴘᴏᴏ ᴅᴇ ᴍᴇ ᴀɴᴅ ᴍᴀɴᴍɪᴇ ᴅᴇ ʟᴡɴs+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʜᴀɪ̈ᴛɪ!!*" target="_blank">
+  <a href="https://wa.me/+50939405677?text=*ʜɪɪ+ᴘᴀᴘᴏᴏ ᴅᴇ ᴍᴇ ᴀɴᴅ ᴍᴀɴᴍɪᴇ ᴅᴇ ʟᴇɴs+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʜᴀɪ̈ᴛɪ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
