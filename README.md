@@ -12,7 +12,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`MASACRY-ＭＤ+Ｖ２+W.A+BOT+BY+lens😍+LENS😒`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`W.A+BOT+BY+lens😍+MASACRY-MD-V2`" alt="">
 
 <br>
 
