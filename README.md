@@ -73,7 +73,7 @@ jobs:
       run: npm start
 ```
 
-[![FORK ＭＡＳＡＣＲＹ-MD-V2](https://imgur.com/a/v0zv71W/FORK%20-MASACRY%20MD%20V2-white)](https://github.com/masacry/ＭＡＳＡＣＲＹ-MD-V2/fork)
+[![FORK ＭＡＳＡＣＲＹ-MD-V2](https://files.catbox.moe/j017rg.jpgMASACRY%20MD%20V2-white)](https://github.com/masacry/ＭＡＳＡＣＲＹ-MD-V2/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
