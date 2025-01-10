@@ -7,7 +7,7 @@
 ----------
 ## CLICK <a href="https://github.com/LENS😍/MASACRY-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-<img src='https://files.catbox.moe/j017rg.jpg'/>
+<img src='https://files.catbox.moe/biw9vm.jpg'/>
 
 -------
 
