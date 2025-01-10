@@ -7,7 +7,7 @@
 ----------
 ## CLICK <a href="https://github.com/LENS😍/MASACRY-MD-V2/issues/2#issue-2744137419">HERE IF YOU ARE NEW TO BOTS</a>
 
-<img src='https://files.catbox.moe/biw9vm.jpg'/>
+<img src='https://files.catbox.moe/uxxouf.jpg'/>
 
 -------
 
@@ -21,7 +21,7 @@
 <p align="center">
 <a href="https://github.com/migosmasacry/"><img title="Followers" src="https://img.shields.io/github/followers/migosmasacry?color=blue&style=flat-square"></a>
 <a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-ＭＤ-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2/network/members"><img title="Forks" src="https://files.catbox.moe/uxxouf.jpg/github/forks/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2?color=blue&style=flat-square"></a>
 <a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2?style=flat-square&color=blue"></a>
 <a href="https://github.com/migosmasacry/ＭＡＳＡＣＲＹ-MD-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
